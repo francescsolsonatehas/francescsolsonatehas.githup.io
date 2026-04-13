@@ -30,34 +30,8 @@ Here's a table:
 
 You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
 
-If $$a \ne 0$$, there are two solutions to $$ax^2 + bx + c = 0$$  and they are $$x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}$$
+If $$ a \ne 0 $$, there are two solutions to $$ ax^2 + bx + c  =  0 $$  and they are $$ x = \frac{-b \pm \sqrt{b^2-4ac}}{2a} $$
 
-If there are two solutions to $$ax^2 + bx + c = 0$$  and they are $$x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}$$
-
-  
-{% raw %}
-
-$$
-a \ne 0,
-$$,
-
-{% endraw %}
-
- there are two solutions to 
- 
-{% raw %} 
-  $$ax^2 + bx + c = 0$$
- 
-{% endraw %}
-
- and they are 
-  
-{% raw %}
-$$
-x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}
-$$
-
-{% endraw %}
 
 How about a yummy crepe?
 
