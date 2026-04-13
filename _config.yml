@@ -148,7 +148,9 @@ date_format: "%B %-d, %Y"
 # Output options (more information on Jekyll's site)
 timezone: "Europe/Madrid"
 markdown: kramdown
-highlighter: rouge
+math_engine: mathjax
+syntax_highlighter: rouge # O el que facis servir
+#highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
 
