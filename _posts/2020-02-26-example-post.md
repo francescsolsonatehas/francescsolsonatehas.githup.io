@@ -35,32 +35,29 @@ If $$a \ne 0$$, there are two solutions to $$ax^2 + bx + c = 0$$  and they are $
 If there are two solutions to $$ax^2 + bx + c = 0$$  and they are $$x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}$$
 
   
-{::options parse_block_html="true" /}
+{% raw %}
 
 $$
 a \ne 0,
 $$,
 
-{::options parse_block_html="false" /}
-
+{% endraw %}
 
  there are two solutions to 
  
-{::options parse_block_html="true" /}
- 
+{% raw %} 
   $$ax^2 + bx + c = 0$$
  
- {::options parse_block_html="false" /}
+{% endraw %}
 
  and they are 
   
-{::options parse_block_html="true" /}
-
+{% raw %}
 $$
 x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}
 $$
 
-{::options parse_block_html="false" /}
+{% endraw %}
 
 How about a yummy crepe?
 
